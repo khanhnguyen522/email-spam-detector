@@ -37,7 +37,7 @@ This project is a spam detection application with a Flask backend and a React fr
 
 1. **Create a virtual environment**:
    ```bash
-   python3 -m venv venv
+   python3.10 -m venv venv
 
 
 1. **Activate the virtual environment**:
