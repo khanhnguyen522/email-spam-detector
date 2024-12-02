@@ -1,0 +1,7 @@
+# Ignore virtual environment in backend
+backend/venv/
+
+# Ignore large files like libraries in backend
+backend/*.dylib
+backend/*.so
+backend/*.bin
