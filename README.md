@@ -1,4 +1,4 @@
-# Email Spam Detector
+# Spam Email Detector
 
 This project is a spam detection application with a Flask backend and a React frontend. The backend handles API requests and runs the spam detection model, while the frontend allows users to interact with the model.
 
